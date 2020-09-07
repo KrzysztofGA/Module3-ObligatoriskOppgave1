@@ -1,0 +1,7 @@
+D:\Qsync\_code\GetAcademy\Module-3\ObligatoriskOppgave1\ObligatoriskOppgave1\bin\Debug\ObligatoriskOppgave1.exe.config
+D:\Qsync\_code\GetAcademy\Module-3\ObligatoriskOppgave1\ObligatoriskOppgave1\bin\Debug\ObligatoriskOppgave1.exe
+D:\Qsync\_code\GetAcademy\Module-3\ObligatoriskOppgave1\ObligatoriskOppgave1\bin\Debug\ObligatoriskOppgave1.pdb
+D:\Qsync\_code\GetAcademy\Module-3\ObligatoriskOppgave1\ObligatoriskOppgave1\obj\Debug\ObligatoriskOppgave1.csprojAssemblyReference.cache
+D:\Qsync\_code\GetAcademy\Module-3\ObligatoriskOppgave1\ObligatoriskOppgave1\obj\Debug\ObligatoriskOppgave1.csproj.CoreCompileInputs.cache
+D:\Qsync\_code\GetAcademy\Module-3\ObligatoriskOppgave1\ObligatoriskOppgave1\obj\Debug\ObligatoriskOppgave1.exe
+D:\Qsync\_code\GetAcademy\Module-3\ObligatoriskOppgave1\ObligatoriskOppgave1\obj\Debug\ObligatoriskOppgave1.pdb
